@@ -31,8 +31,8 @@
 // Number.MAX_SAFE_INTEGER
 // Number.MAX_VALUE
 // Number.MIN_VALUE
-// POSITIVE_INFINITY
-// NEGATIVE_INFINITY
+// Number.POSITIVE_INFINITY
+// Number.NEGATIVE_INFINITY
 // Number.NaN
 
 // var x = Number.parseInt("4444.33");
